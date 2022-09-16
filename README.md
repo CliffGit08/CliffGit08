@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CliffGit08
 - 👀 I’m interested in Web and App Development
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Front End Development
+- 💞️ I’m looking to collaborate on Software Development Projects
 - 📫 How to reach me c8cliffort@gmail.com
 
 <!---
